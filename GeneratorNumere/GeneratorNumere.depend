@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1680039649 source:d:\codeblocks work\generatornumere\main.cpp
+	<iostream>
+	<fstream>
+	<random>
+
