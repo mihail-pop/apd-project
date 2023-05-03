@@ -15,7 +15,7 @@ Graphics card - GTX 970
 
 Rezultate experimentale pentru variantele secvențiale:
 
-| Limbaj:  | C++ | STL | Test | Test |
+| Limbaj:  | C++ |  | STL |  |
 | ------------- | ------------- |  ------------- |  ------------- |  ------------- |
 | Tip numere:  | 32 bit | 64 bit | 32 bit | 64 bit |
 | 100.000  | Content Cell  |  Content Cell  |  Content Cell  |  Content Cell  |
