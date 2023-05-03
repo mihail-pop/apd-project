@@ -15,27 +15,10 @@ Graphics card - GTX 970
 
 Rezultate experimentale pentru variantele secvențiale:
 
-100.000 numere
-
-32 bit 
-C++ - 30.157 s - 0.5 min
-STL - 53.583 s - 0.9 min
-
-64 bit
-C++ - 72.153 s - 1.2 min
-STL - 135.702 s - 2.3 min
-
-1.000.000 numere
-
-32 bit
-C++ - 251.436 s - 4.2 min
-STL - 485.419 s - 8.1 min
-
-64 bit
-C++ -  695.204 s - 11.6 min
-STL - 1259.208 s - 21 min
-
-
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
 
 
 
