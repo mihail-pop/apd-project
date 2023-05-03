@@ -15,29 +15,23 @@ Graphics card - GTX 970
 
 Rezultate experimentale pentru variantele secvențiale:
 
-100.000 numere
+| Limbaj:  | C++ |  | STL |  |
+| :-------------: | :-------------: |  :-------------: |  :-------------: |  :-------------: |
+| Tip numere:  | 32 bit | 64 bit | 32 bit | 64 bit |
+| 100.000  | 0.104 s  | 0.164 s  |  0.158 s  |  0.432 s  |
+| 1.000.000  | 0.559 s  |  1.531 s  |  1.277 s  |  3.545 s  |
+| 10.000.000  | 6.033 s  |  16.6 s  |  13.933 s  |  38.776 s  |
+| 100.000.000  | 62.760 s  |  72.306 s  |  155.905 s  |  178.571 s  |
 
-32 bit 
-C++ - 30.157 s - 0.5 min
-STL - 53.583 s - 0.9 min
+Rezultate experimentale pentru variantele paralele:
 
-64 bit
-C++ - 72.153 s - 1.2 min
-STL - 135.702 s - 2.3 min
-
-1.000.000 numere
-
-32 bit
-C++ - 251.436 s - 4.2 min
-STL - 485.419 s - 8.1 min
-
-64 bit
-C++ -  695.204 s - 11.6 min
-STL - 1259.208 s - 21 min
-
-
-
-
+| Framework:  | OpenMP | 4 threads | OpenACC |  |
+| :-------------: | :-------------: |  :-------------: |  :-------------: |  :-------------: |
+| Tip numere:  | 32 bit | 64 bit | 32 bit | 64 bit |
+| 100.000  | 0.816 s  | 2.239 s  |  -  |  -  |
+| 1.000.000  | 9.249 s  |  21.224 s  |  -  |  -  |
+| 10.000.000  | 104.515 s  |  179.838 s  |  -  |  -  |
+| 100.000.000  | -  |  -  |  -  |  -  |
 
 
 Link pentru document:
