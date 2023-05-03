@@ -15,10 +15,13 @@ Graphics card - GTX 970
 
 Rezultate experimentale pentru variantele secvențiale:
 
-| First Header  | Second Header |
+| Limbaj:  | Second Header | C++ | STL |
+| Tip numere:  | Second Header |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| 100.000  | Content Cell  |
+| 1.000.000  | Content Cell  |
+| 10.000.000  | Content Cell  |
+| 100.000.000  | Content Cell  |
 
 
 
