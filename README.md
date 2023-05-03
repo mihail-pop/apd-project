@@ -18,12 +18,20 @@ Rezultate experimentale pentru variantele secvențiale:
 | Limbaj:  | C++ |  | STL |  |
 | :-------------: | :-------------: |  :-------------: |  :-------------: |  :-------------: |
 | Tip numere:  | 32 bit | 64 bit | 32 bit | 64 bit |
-| 100.000  | Content Cell  |  Content Cell  |  Content Cell  |  Content Cell  |
-| 1.000.000  | Content Cell  |  Content Cell  |  Content Cell  |  Content Cell  |
-| 10.000.000  | Content Cell  |  Content Cell  |  Content Cell  |  Content Cell  |
-| 100.000.000  | Content Cell  |  Content Cell  |  Content Cell  |  Content Cell  |
+| 100.000  | 0.104 s  | 0.164 s  |  0.158 s  |  0.432 s  |
+| 1.000.000  | 0.559 s  |  1.531 s  |  1.277 s  |  3.545 s  |
+| 10.000.000  | 6.033 s  |  16.6 s  |  13.933 s  |  38.776 s  |
+| 100.000.000  | 62.760 s  |  72.306 s  |  155.905 s  |  178.571 s  |
 
+Rezultate experimentale pentru variantele paralele:
 
+| Framework:  | OpenMP |  | OpenACC |  |
+| :-------------: | :-------------: |  :-------------: |  :-------------: |  :-------------: |
+| Tip numere:  | 32 bit | 64 bit | 32 bit | 64 bit |
+| 100.000  | 0.104 s  | 0.164 s  |  -  |  -  |
+| 1.000.000  | 0.559 s  |  1.531 s  |  -  |  -  |
+| 10.000.000  | 6.033 s  |  16.6 s  |  -  |  -  |
+| 100.000.000  | 62.760 s  |  72.306 s  |  -  |  -  |
 
 
 Link pentru document:
