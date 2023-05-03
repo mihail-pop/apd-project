@@ -17,7 +17,7 @@ Rezultate experimentale pentru variantele secvențiale:
 
 | Limbaj:  | Second Header | C++ | STL |
 | Tip numere:  | Second Header | 32 bit | 64 bit | 32 bit | 64 bit |
-| ------------- | ------------- |
+| ------------- | ------------- |  ------------- |  ------------- |  ------------- |  ------------- |
 | 100.000  | Content Cell  |  Content Cell  |  Content Cell  |  Content Cell  |
 | 1.000.000  | Content Cell  |  Content Cell  |  Content Cell  |  Content Cell  |
 | 10.000.000  | Content Cell  |  Content Cell  |  Content Cell  |  Content Cell  |
