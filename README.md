@@ -31,7 +31,7 @@ Rezultate experimentale pentru variantele paralele:
 | 100.000  | 0.816 s  | 2.239 s  |  -  |  -  |
 | 1.000.000  | 9.249 s  |  21.224 s  |  -  |  -  |
 | 10.000.000  | 104.515 s  |  179.838 s  |  -  |  -  |
-| 100.000.000  | -  |  -  |  -  |  -  |
+| 100.000.000  | 915.001 s  |  1531.309 s  |  -  |  -  |
 
 
 Link pentru document:
