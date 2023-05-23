@@ -25,13 +25,13 @@ Rezultate experimentale pentru variantele secvențiale:
 
 Rezultate experimentale pentru variantele paralele:
 
-| Framework:  | OpenMP | 4 threads | OpenACC |  |
+| Framework:  | OpenMP | 4 threads | OpenACC | 4 threads |
 | :-------------: | :-------------: |  :-------------: |  :-------------: |  :-------------: |
 | Tip numere:  | 32 bit | 64 bit | 32 bit | 64 bit |
-| 100.000  | 0.816 s  | 2.239 s  |  -  |  -  |
-| 1.000.000  | 9.249 s  |  21.224 s  |  -  |  -  |
-| 10.000.000  | 104.515 s  |  179.838 s  |  -  |  -  |
-| 100.000.000  | -  |  -  |  -  |  -  |
+| 100.000  | 0.019 s | 0.046 s |  0.087 s |  0.159 s |
+| 1.000.000  |  0.174 s |  0.484 s |  0.577 s  |  1.682 s  |
+| 10.000.000  | 2.476 s |  5.587 s |  6.710 s |  17.397 s  |
+| 100.000.000  | 22.038 s |  29.004 s | 68.185 s |  75.779 s  |
 
 
 Link pentru document:
