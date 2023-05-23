@@ -1,8 +1,0 @@
-# depslib dependency file v1.0
-1680038204 source:d:\codeblocks work\quicksort_secvential_c++\main.cpp
-	<iostream>
-	<fstream>
-	<vector>
-	<cstdint>
-	<algorithm>
-
