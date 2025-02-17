@@ -1,5 +1,4 @@
-# About
-
+## Overview
 This project was developed for the **"Algoritmi Paraleli și Distribuiți"** (Parallel and Distributed Algorithms) course. It compares the performance of sequential and parallel implementations of the **QuickSort** algorithm using **C++** and **STL**, with parallelization frameworks like **OpenMP** and **OpenACC**. The goal was to analyze how parallelization improves sorting performance for large datasets.
 
 ## Key Features
